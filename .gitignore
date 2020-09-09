@@ -1,0 +1,16 @@
+# Emviroments
+venv/
+build/
+
+# Packaging
+dist/
+.eggs/
+*.egg-info/
+
+# Shinx documentation
+docsrc/_build/
+docsrc/modules/auto_generated/
+
+# C extensions
+*.c
+*.pyd
